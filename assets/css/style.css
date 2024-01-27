@@ -2111,7 +2111,7 @@ body {
   .threeSlide .devices__slider-images {
     min-width: 100%;
     height: 140px;
-    background: url("..assets/images/devices/tv.png") no-repeat;
+    background: url("../images/devices/tv.png") no-repeat;
     background-size: contain;
     background-position: center;
   }
